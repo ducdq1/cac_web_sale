@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'cac' );
 
 /** MySQL database username */
-define( 'DB_USER', 'cac' );
+define( 'DB_USER', 'root' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Leppro90' );
+define( 'DB_PASSWORD', '' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );

@@ -1,0 +1,209 @@
+2023-11-25T03:54:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:10+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:11+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:12+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:12+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:15+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:16+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:17+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:22+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:23+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:54:24+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:55:34+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:55:38+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:55:43+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
+2023-11-25T03:55:51+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_subtotal() on null in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php:31
+Stack trace:
+#0 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require()
+#1 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#2 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#3 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\inc\structure\structure-header.php(97): get_template_part('template-parts/...', 'sidebar')
+#4 C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\overlays\overlay-menu.php(34): flatsome_header_elements('mobile_sidebar', 'sidebar')
+#5 C:\xampp1\htdocs\cac\wp-includes\template.php(772): require('C:\\xampp1\\htdoc...')
+#6 C:\xampp1\htdocs\cac\wp-includes\template.php(716): load_template('C:\\xampp1\\htdoc...', false, Array)
+#7 C:\xampp1\htdocs\cac\wp-includes\general-template.php(204): locate_temp in C:\xampp1\htdocs\cac\wp-content\themes\flatsome\template-parts\header\partials\element-cart.php on line 31
+
